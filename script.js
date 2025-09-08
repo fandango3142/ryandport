@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const timelineItems = [
     {
       title: 'Early Experience',
-      period: '2016 – 2018',
+      period: '',
       desc:
         'Marketing Specialist at Amazon (#GiftABook campaign with 94% CTR) and Project Management at BookMyShow (Cirque du Soleil & Bryan Adams tours).',
     },
